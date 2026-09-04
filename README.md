@@ -1,6 +1,4 @@
-=========================================================================
-                             VOID RPG: RA
-=========================================================================
+VOID RPG: RA
 
 A dark, text-based RPG adventure created in Python. Set in a world where 
 you play as a forgotten hero who must reclaim the shattered fragments of 
